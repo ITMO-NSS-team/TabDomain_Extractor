@@ -1,0 +1,1292 @@
+[
+  {
+    "name": "lymph",
+    "url": "https://www.openml.org/d/10",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "analcatdata_germangss",
+    "url": "https://www.openml.org/d/1025",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "balance-scale",
+    "url": "https://www.openml.org/d/11",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "PopularKids",
+    "url": "https://www.openml.org/d/1100",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "AP_Endometrium_Prostate",
+    "url": "https://www.openml.org/d/1141",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "BNG(mfeat-karhunen,nominal,1000000)",
+    "url": "https://www.openml.org/d/115",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(bridges_version1,nominal,1000000)",
+    "url": "https://www.openml.org/d/116",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(bridges_version2,nominal,1000000)",
+    "url": "https://www.openml.org/d/117",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(mfeat-zernike,nominal,1000000)",
+    "url": "https://www.openml.org/d/118",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(auto_price)",
+    "url": "https://www.openml.org/d/1189",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "BNG(cmc,nominal,55296)",
+    "url": "https://www.openml.org/d/119",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(autoHorse)",
+    "url": "https://www.openml.org/d/1192",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(autoPrice)",
+    "url": "https://www.openml.org/d/1195",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "mfeat-factors",
+    "url": "https://www.openml.org/d/12",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(mushroom)",
+    "url": "https://www.openml.org/d/120",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(satellite_image)",
+    "url": "https://www.openml.org/d/1206",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "BNG(colic.ORIG,nominal,1000000)",
+    "url": "https://www.openml.org/d/121",
+    "domain": "Veterinary Science"
+  },
+  {
+    "name": "BNG(colic,nominal,1000000)",
+    "url": "https://www.openml.org/d/122",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(optdigits)",
+    "url": "https://www.openml.org/d/123",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "Stagger1",
+    "url": "https://www.openml.org/d/1236",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "Stagger2",
+    "url": "https://www.openml.org/d/1237",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "Stagger3",
+    "url": "https://www.openml.org/d/1238",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "BNG(credit-a,nominal,1000000)",
+    "url": "https://www.openml.org/d/124",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(page-blocks,nominal,295245)",
+    "url": "https://www.openml.org/d/125",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "BNG(credit-g,nominal,1000000)",
+    "url": "https://www.openml.org/d/126",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "BNG(pendigits,nominal,1000000)",
+    "url": "https://www.openml.org/d/127",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(cylinder-bands,nominal,1000000)",
+    "url": "https://www.openml.org/d/128",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(dermatology,nominal,1000000)",
+    "url": "https://www.openml.org/d/129",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "breast-cancer",
+    "url": "https://www.openml.org/d/13",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(segment)",
+    "url": "https://www.openml.org/d/130",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(sick,nominal,1000000)",
+    "url": "https://www.openml.org/d/131",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(sonar,nominal,1000000)",
+    "url": "https://www.openml.org/d/132",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(glass,nominal,137781)",
+    "url": "https://www.openml.org/d/133",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(soybean)",
+    "url": "https://www.openml.org/d/134",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(spambase)",
+    "url": "https://www.openml.org/d/135",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(anneal,1000,1)",
+    "url": "https://www.openml.org/d/1351",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,1000,5)",
+    "url": "https://www.openml.org/d/1352",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,1000,10)",
+    "url": "https://www.openml.org/d/1353",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,5000,1)",
+    "url": "https://www.openml.org/d/1354",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,5000,5)",
+    "url": "https://www.openml.org/d/1355",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,5000,10)",
+    "url": "https://www.openml.org/d/1356",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,10000,1)",
+    "url": "https://www.openml.org/d/1357",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,10000,5)",
+    "url": "https://www.openml.org/d/1358",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal,10000,10)",
+    "url": "https://www.openml.org/d/1359",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(heart-c,nominal,1000000)",
+    "url": "https://www.openml.org/d/136",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,1000,1)",
+    "url": "https://www.openml.org/d/1360",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal.ORIG,1000,5)",
+    "url": "https://www.openml.org/d/1361",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(anneal.ORIG,1000,10)",
+    "url": "https://www.openml.org/d/1362",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,5000,1)",
+    "url": "https://www.openml.org/d/1363",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,5000,5)",
+    "url": "https://www.openml.org/d/1364",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,5000,10)",
+    "url": "https://www.openml.org/d/1365",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,10000,1)",
+    "url": "https://www.openml.org/d/1366",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,10000,5)",
+    "url": "https://www.openml.org/d/1367",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,10000,10)",
+    "url": "https://www.openml.org/d/1368",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(tic-tac-toe)",
+    "url": "https://www.openml.org/d/137",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(heart-h,nominal,1000000)",
+    "url": "https://www.openml.org/d/138",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(letter,10000,1)",
+    "url": "https://www.openml.org/d/1384",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(letter,10000,5)",
+    "url": "https://www.openml.org/d/1385",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(trains)",
+    "url": "https://www.openml.org/d/139",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(autos,1000,1)",
+    "url": "https://www.openml.org/d/1393",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "BNG(autos,1000,5)",
+    "url": "https://www.openml.org/d/1394",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "BNG(autos,1000,10)",
+    "url": "https://www.openml.org/d/1395",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "mfeat-fourier",
+    "url": "https://www.openml.org/d/14",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(heart-statlog,nominal,1000000)",
+    "url": "https://www.openml.org/d/140",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(vehicle,nominal,1000000)",
+    "url": "https://www.openml.org/d/141",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(hepatitis,nominal,1000000)",
+    "url": "https://www.openml.org/d/142",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(vote)",
+    "url": "https://www.openml.org/d/143",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(hypothyroid,nominal,1000000)",
+    "url": "https://www.openml.org/d/144",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(ionosphere)",
+    "url": "https://www.openml.org/d/146",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(waveform-5000,nominal,1000000)",
+    "url": "https://www.openml.org/d/147",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(zoo,nominal,1000000)",
+    "url": "https://www.openml.org/d/148",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "kr-vs-k",
+    "url": "https://www.openml.org/d/1481",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "leaf",
+    "url": "https://www.openml.org/d/1482",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "CovPokElec",
+    "url": "https://www.openml.org/d/149",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "one-hundred-plants-margin",
+    "url": "https://www.openml.org/d/1491",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "one-hundred-plants-shape",
+    "url": "https://www.openml.org/d/1492",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "one-hundred-plants-texture",
+    "url": "https://www.openml.org/d/1493",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "breast-w",
+    "url": "https://www.openml.org/d/15",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "covertype",
+    "url": "https://www.openml.org/d/150",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "seismic-bumps",
+    "url": "https://www.openml.org/d/1500",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "walking-activity",
+    "url": "https://www.openml.org/d/1509",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "electricity",
+    "url": "https://www.openml.org/d/151",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "Hyperplane_10_1E-3",
+    "url": "https://www.openml.org/d/152",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "Hyperplane_10_1E-4",
+    "url": "https://www.openml.org/d/153",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "LED(50000)",
+    "url": "https://www.openml.org/d/154",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "RandomRBF_0_0",
+    "url": "https://www.openml.org/d/156",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "RandomRBF_10_1E-3",
+    "url": "https://www.openml.org/d/157",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "RandomRBF_10_1E-4",
+    "url": "https://www.openml.org/d/158",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "RandomRBF_50_1E-3",
+    "url": "https://www.openml.org/d/159",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "mfeat-karhunen",
+    "url": "https://www.openml.org/d/16",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "SEA(50)",
+    "url": "https://www.openml.org/d/161",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "molecular-biology_promoters",
+    "url": "https://www.openml.org/d/164",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "mfeat-morphological",
+    "url": "https://www.openml.org/d/18",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "abalone",
+    "url": "https://www.openml.org/d/183",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "wisconsin",
+    "url": "https://www.openml.org/d/191",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "autoMpg",
+    "url": "https://www.openml.org/d/196",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "anneal",
+    "url": "https://www.openml.org/d/2",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "mfeat-pixel",
+    "url": "https://www.openml.org/d/20",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "2dplanes",
+    "url": "https://www.openml.org/d/215",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "mfeat-zernike",
+    "url": "https://www.openml.org/d/22",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "pwLinear",
+    "url": "https://www.openml.org/d/229",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "cmc",
+    "url": "https://www.openml.org/d/23",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "mushroom",
+    "url": "https://www.openml.org/d/24",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "BNG(anneal)",
+    "url": "https://www.openml.org/d/244",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG)",
+    "url": "https://www.openml.org/d/245",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(autos)",
+    "url": "https://www.openml.org/d/248",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(lymph)",
+    "url": "https://www.openml.org/d/249",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "colic",
+    "url": "https://www.openml.org/d/25",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(breast-w)",
+    "url": "https://www.openml.org/d/251",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "BNG(colic.ORIG)",
+    "url": "https://www.openml.org/d/256",
+    "domain": "Veterinary Science"
+  },
+  {
+    "name": "BNG(colic)",
+    "url": "https://www.openml.org/d/257",
+    "domain": "Veterinary Science"
+  },
+  {
+    "name": "nursery",
+    "url": "https://www.openml.org/d/26",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "BNG(credit-g)",
+    "url": "https://www.openml.org/d/260",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "BNG(cylinder-bands)",
+    "url": "https://www.openml.org/d/262",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(glass)",
+    "url": "https://www.openml.org/d/265",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "BNG(heart-c)",
+    "url": "https://www.openml.org/d/266",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "BNG(hepatitis)",
+    "url": "https://www.openml.org/d/269",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "colic",
+    "url": "https://www.openml.org/d/27",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "optdigits",
+    "url": "https://www.openml.org/d/28",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "credit-approval",
+    "url": "https://www.openml.org/d/29",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "kr-vs-kp",
+    "url": "https://www.openml.org/d/3",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "page-blocks",
+    "url": "https://www.openml.org/d/30",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "QSAR-TID-10113",
+    "url": "https://www.openml.org/d/3043",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "puma32H",
+    "url": "https://www.openml.org/d/308",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "credit-g",
+    "url": "https://www.openml.org/d/31",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "pendigits",
+    "url": "https://www.openml.org/d/32",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "QSAR-TID-12000",
+    "url": "https://www.openml.org/d/3212",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "QSAR-TID-101464",
+    "url": "https://www.openml.org/d/3213",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "QSAR-TID-17120",
+    "url": "https://www.openml.org/d/3221",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "QSAR-TID-193",
+    "url": "https://www.openml.org/d/3243",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "hayes-roth",
+    "url": "https://www.openml.org/d/329",
+    "domain": "Veterinary Science"
+  },
+  {
+    "name": "monks-problems-1",
+    "url": "https://www.openml.org/d/333",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "monks-problems-2",
+    "url": "https://www.openml.org/d/334",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "monks-problems-3",
+    "url": "https://www.openml.org/d/335",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "grub-damage",
+    "url": "https://www.openml.org/d/338",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "pasture",
+    "url": "https://www.openml.org/d/339",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "QSAR-TID-13024",
+    "url": "https://www.openml.org/d/3395",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "postoperative-patient-data",
+    "url": "https://www.openml.org/d/34",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "QSAR-TID-101152",
+    "url": "https://www.openml.org/d/3410",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "white-clover",
+    "url": "https://www.openml.org/d/343",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "mv",
+    "url": "https://www.openml.org/d/344",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "QSAR-TID-20023",
+    "url": "https://www.openml.org/d/3483",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "QSAR-TID-11528",
+    "url": "https://www.openml.org/d/3491",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "dermatology",
+    "url": "https://www.openml.org/d/35",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "QSAR-TID-17034",
+    "url": "https://www.openml.org/d/3561",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "segment",
+    "url": "https://www.openml.org/d/36",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "QSAR-TID-11260",
+    "url": "https://www.openml.org/d/3640",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "diabetes",
+    "url": "https://www.openml.org/d/37",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "QSAR-TID-117",
+    "url": "https://www.openml.org/d/3760",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "ipums_la_99-small",
+    "url": "https://www.openml.org/d/378",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "sick",
+    "url": "https://www.openml.org/d/38",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "ipums_la_98-small",
+    "url": "https://www.openml.org/d/381",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "QSAR-TID-11288",
+    "url": "https://www.openml.org/d/3819",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "ipums_la_97-small",
+    "url": "https://www.openml.org/d/382",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "QSAR-TID-100947",
+    "url": "https://www.openml.org/d/3826",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "ecoli",
+    "url": "https://www.openml.org/d/39",
+    "domain": "Computational Biology"
+  },
+  {
+    "name": "labor",
+    "url": "https://www.openml.org/d/4",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "sonar",
+    "url": "https://www.openml.org/d/40",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(credit-g)",
+    "url": "https://www.openml.org/d/40514",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "BNG(anneal)",
+    "url": "https://www.openml.org/d/40520",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "GAMETES_Epistasis_2-Way_20atts_0.1H_EDM-1_1",
+    "url": "https://www.openml.org/d/40646",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "GAMETES_Epistasis_2-Way_20atts_0.4H_EDM-1_1",
+    "url": "https://www.openml.org/d/40647",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "car-evaluation",
+    "url": "https://www.openml.org/d/40664",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "connect-4",
+    "url": "https://www.openml.org/d/40668",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "dna",
+    "url": "https://www.openml.org/d/40670",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "cars1",
+    "url": "https://www.openml.org/d/40700",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "Run_or_walk_information",
+    "url": "https://www.openml.org/d/40922",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "car",
+    "url": "https://www.openml.org/d/40975",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "jungle_chess_2pcs_endgame_panther_lion",
+    "url": "https://www.openml.org/d/40997",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "jungle_chess_2pcs_endgame_panther_lion",
+    "url": "https://www.openml.org/d/40998",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "glass",
+    "url": "https://www.openml.org/d/41",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "Moneyball",
+    "url": "https://www.openml.org/d/41021",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "kick",
+    "url": "https://www.openml.org/d/41162",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "slump",
+    "url": "https://www.openml.org/d/41490",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "Smartphone-Based_Recognition_of_Human_Activities",
+    "url": "https://www.openml.org/d/4153",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "slump",
+    "url": "https://www.openml.org/d/41558",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "FOREX_eurnzd-day-High",
+    "url": "https://www.openml.org/d/41713",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurhuf-hour-High",
+    "url": "https://www.openml.org/d/41715",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurjpy-day-High",
+    "url": "https://www.openml.org/d/41719",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurusd-day-High",
+    "url": "https://www.openml.org/d/41720",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_cadchf-hour-High",
+    "url": "https://www.openml.org/d/41723",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurcad-day-High",
+    "url": "https://www.openml.org/d/41725",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_cadjpy-minute-High",
+    "url": "https://www.openml.org/d/41728",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_usdchf-day-High",
+    "url": "https://www.openml.org/d/41730",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurpln-hour-Close",
+    "url": "https://www.openml.org/d/41734",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_chfsgd-minute-High",
+    "url": "https://www.openml.org/d/41738",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_eurpln-minute-Close",
+    "url": "https://www.openml.org/d/41743",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_chfjpy-minute-High",
+    "url": "https://www.openml.org/d/41745",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "FOREX_cadchf-day-High",
+    "url": "https://www.openml.org/d/41746",
+    "domain": "Finance & Economics"
+  },
+  {
+    "name": "soybean",
+    "url": "https://www.openml.org/d/42",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "ecoli",
+    "url": "https://www.openml.org/d/42844",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "glass",
+    "url": "https://www.openml.org/d/42847",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "glass",
+    "url": "https://www.openml.org/d/42848",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "yeast",
+    "url": "https://www.openml.org/d/42870",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "haberman",
+    "url": "https://www.openml.org/d/43",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "spambase",
+    "url": "https://www.openml.org/d/44",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "cars",
+    "url": "https://www.openml.org/d/455",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "splice",
+    "url": "https://www.openml.org/d/46",
+    "domain": "Biology & Genetics"
+  },
+  {
+    "name": "fl2000",
+    "url": "https://www.openml.org/d/477",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "tae",
+    "url": "https://www.openml.org/d/48",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "heart-c",
+    "url": "https://www.openml.org/d/49",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "baseball-pitcher",
+    "url": "https://www.openml.org/d/495",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "arrhythmia",
+    "url": "https://www.openml.org/d/5",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "tic-tac-toe",
+    "url": "https://www.openml.org/d/50",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "heart-h",
+    "url": "https://www.openml.org/d/51",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "baseball-team",
+    "url": "https://www.openml.org/d/515",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "trains",
+    "url": "https://www.openml.org/d/52",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "baseball-hitter",
+    "url": "https://www.openml.org/d/525",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "heart-statlog",
+    "url": "https://www.openml.org/d/53",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "vehicle",
+    "url": "https://www.openml.org/d/54",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "socmob",
+    "url": "https://www.openml.org/d/541",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "hepatitis",
+    "url": "https://www.openml.org/d/55",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "bank32nh",
+    "url": "https://www.openml.org/d/558",
+    "domain": "Synthetic Systems"
+  },
+  {
+    "name": "vote",
+    "url": "https://www.openml.org/d/56",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "kdd_el_nino-small",
+    "url": "https://www.openml.org/d/563",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "auto93",
+    "url": "https://www.openml.org/d/569",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "hypothyroid",
+    "url": "https://www.openml.org/d/57",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "fri_c0_250_5",
+    "url": "https://www.openml.org/d/579",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c3_500_25",
+    "url": "https://www.openml.org/d/581",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c1_500_25",
+    "url": "https://www.openml.org/d/582",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c1_1000_50",
+    "url": "https://www.openml.org/d/583",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c4_500_25",
+    "url": "https://www.openml.org/d/584",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c3_1000_25",
+    "url": "https://www.openml.org/d/586",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c3_100_50",
+    "url": "https://www.openml.org/d/587",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "ionosphere",
+    "url": "https://www.openml.org/d/59",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "fri_c4_1000_25",
+    "url": "https://www.openml.org/d/592",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c2_100_5",
+    "url": "https://www.openml.org/d/594",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "fri_c2_250_5",
+    "url": "https://www.openml.org/d/596",
+    "domain": "Physics & Mathematics"
+  },
+  {
+    "name": "letter",
+    "url": "https://www.openml.org/d/6",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "waveform-5000",
+    "url": "https://www.openml.org/d/60",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "iris",
+    "url": "https://www.openml.org/d/61",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "zoo",
+    "url": "https://www.openml.org/d/62",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "chatfield_4",
+    "url": "https://www.openml.org/d/695",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "audiology",
+    "url": "https://www.openml.org/d/7",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(anneal,nominal,1000000)",
+    "url": "https://www.openml.org/d/70",
+    "domain": "Materials Science"
+  },
+  {
+    "name": "BNG(anneal.ORIG,nominal,1000000)",
+    "url": "https://www.openml.org/d/71",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "chscase_geyser1",
+    "url": "https://www.openml.org/d/712",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "rmftsa_ladata",
+    "url": "https://www.openml.org/d/717",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "BNG(kr-vs-kp)",
+    "url": "https://www.openml.org/d/72",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "BNG(labor,nominal,1000000)",
+    "url": "https://www.openml.org/d/73",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "BNG(letter,nominal,1000000)",
+    "url": "https://www.openml.org/d/74",
+    "domain": "Sports & Recreation"
+  },
+  {
+    "name": "BNG(autos,nominal,1000000)",
+    "url": "https://www.openml.org/d/75",
+    "domain": "Engineering & Technology"
+  },
+  {
+    "name": "pm10",
+    "url": "https://www.openml.org/d/750",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "analcatdata_olympic2000",
+    "url": "https://www.openml.org/d/759",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "BNG(lymph,nominal,1000000)",
+    "url": "https://www.openml.org/d/76",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(breast-cancer,nominal,1000000)",
+    "url": "https://www.openml.org/d/77",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "BNG(mfeat-fourier,nominal,1000000)",
+    "url": "https://www.openml.org/d/78",
+    "domain": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "name": "liver-disorders",
+    "url": "https://www.openml.org/d/8",
+    "domain": "Medical Science"
+  },
+  {
+    "name": "analcatdata_gviolence",
+    "url": "https://www.openml.org/d/859",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "pollution",
+    "url": "https://www.openml.org/d/882",
+    "domain": "Environmental Science"
+  },
+  {
+    "name": "analcatdata_negotiation",
+    "url": "https://www.openml.org/d/899",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "autos",
+    "url": "https://www.openml.org/d/9",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "cars",
+    "url": "https://www.openml.org/d/967",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "hayes-roth",
+    "url": "https://www.openml.org/d/974",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "autos",
+    "url": "https://www.openml.org/d/975",
+    "domain": "Transportation Systems"
+  },
+  {
+    "name": "cmc",
+    "url": "https://www.openml.org/d/983",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "fl2000",
+    "url": "https://www.openml.org/d/988",
+    "domain": "Social Sciences"
+  },
+  {
+    "name": "car",
+    "url": "https://www.openml.org/d/991",
+    "domain": "Transportation Systems"
+  }
+]
